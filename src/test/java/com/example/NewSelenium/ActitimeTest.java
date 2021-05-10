@@ -28,8 +28,8 @@ public class ActitimeTest {
         public void verifyTryFree () {
             //actitime.burgerMenu.click ();
             actitime.tryFreeButton.click();
-            actitime.firstNameInput.sendKeys ( "Lidiya" );
-            actitime.lastNameInput.sendKeys ( "Myroshnychenko" );
+            actitime.firstNameInput.sendKeys ( "Luis" );
+            actitime.lastNameInput.sendKeys ( "Haga" );
             actitime.emailInput.sendKeys ( "test@example.com" );
             actitime.companyInput.sendKeys ( "Företag" );
         }
